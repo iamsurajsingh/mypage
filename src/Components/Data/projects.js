@@ -4,8 +4,8 @@ export const projectsData = [
         title: "Portfolio v1.0",
         about: "Created a personalized portfolio website for myself to showcase a digital portfolio rather than old styled resume's.",
         tags: ["HTML5", "CSS3", "React JS"],
-        demo_link: "https://www.google.com",
-        github: "https://www.github.com",
+        demo_link: "https://www.iamsurajsingh.github.io/mypage",
+        github: "https://github.com/iamsurajsingh/mypage",
         image: require("../../assets/img@project1.png").default,
     },
     {
