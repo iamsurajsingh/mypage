@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mypage/static/css/main.fd22f943.chunk.css",
-    "main.js": "/mypage/static/js/main.2a7c296c.chunk.js",
-    "main.js.map": "/mypage/static/js/main.2a7c296c.chunk.js.map",
+    "main.js": "/mypage/static/js/main.95a5e338.chunk.js",
+    "main.js.map": "/mypage/static/js/main.95a5e338.chunk.js.map",
     "runtime-main.js": "/mypage/static/js/runtime-main.a6f75408.js",
     "runtime-main.js.map": "/mypage/static/js/runtime-main.a6f75408.js.map",
     "static/js/2.db6feabe.chunk.js": "/mypage/static/js/2.db6feabe.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.fd22f943.chunk.css.map": "/mypage/static/css/main.fd22f943.chunk.css.map",
     "static/js/2.db6feabe.chunk.js.LICENSE.txt": "/mypage/static/js/2.db6feabe.chunk.js.LICENSE.txt",
     "static/media/Programmer-bro.png": "/mypage/static/media/Programmer-bro.7b2052a9.png",
-    "static/media/SURAJ_Software_Engineer.pdf": "/mypage/static/media/SURAJ_Software_Engineer.ea85877b.pdf",
+    "static/media/Suraj_Resume_FullStack.pdf": "/mypage/static/media/Suraj_Resume_FullStack.d3b53c4a.pdf",
     "static/media/gmail.png": "/mypage/static/media/gmail.8b69991f.png",
     "static/media/img@project1.png": "/mypage/static/media/img@project1.b0585dc8.png",
     "static/media/img@project2.png": "/mypage/static/media/img@project2.754c9778.png",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.a6f75408.js",
     "static/js/2.db6feabe.chunk.js",
     "static/css/main.fd22f943.chunk.css",
-    "static/js/main.2a7c296c.chunk.js"
+    "static/js/main.95a5e338.chunk.js"
   ]
 }
