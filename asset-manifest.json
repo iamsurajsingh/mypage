@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/mypage/static/css/main.fd22f943.chunk.css",
-    "main.js": "/mypage/static/js/main.033ce127.chunk.js",
-    "main.js.map": "/mypage/static/js/main.033ce127.chunk.js.map",
+    "main.css": "/mypage/static/css/main.b8cb7db3.chunk.css",
+    "main.js": "/mypage/static/js/main.658a73df.chunk.js",
+    "main.js.map": "/mypage/static/js/main.658a73df.chunk.js.map",
     "runtime-main.js": "/mypage/static/js/runtime-main.a6f75408.js",
     "runtime-main.js.map": "/mypage/static/js/runtime-main.a6f75408.js.map",
     "static/js/2.db6feabe.chunk.js": "/mypage/static/js/2.db6feabe.chunk.js",
     "static/js/2.db6feabe.chunk.js.map": "/mypage/static/js/2.db6feabe.chunk.js.map",
     "index.html": "/mypage/index.html",
-    "static/css/main.fd22f943.chunk.css.map": "/mypage/static/css/main.fd22f943.chunk.css.map",
+    "static/css/main.b8cb7db3.chunk.css.map": "/mypage/static/css/main.b8cb7db3.chunk.css.map",
     "static/js/2.db6feabe.chunk.js.LICENSE.txt": "/mypage/static/js/2.db6feabe.chunk.js.LICENSE.txt",
     "static/media/Programmer-bro.png": "/mypage/static/media/Programmer-bro.7b2052a9.png",
     "static/media/Suraj_Resume_FullStack.pdf": "/mypage/static/media/Suraj_Resume_FullStack.420abf20.pdf",
     "static/media/covidtracker.png": "/mypage/static/media/covidtracker.6d6b78b7.png",
     "static/media/gmail.png": "/mypage/static/media/gmail.8b69991f.png",
-    "static/media/img@project1.png": "/mypage/static/media/img@project1.b0585dc8.png",
     "static/media/img@project2.png": "/mypage/static/media/img@project2.754c9778.png",
     "static/media/infinite.png": "/mypage/static/media/infinite.7255df2f.png",
     "static/media/instagram.png": "/mypage/static/media/instagram.baf231c8.png",
     "static/media/leetcode.png": "/mypage/static/media/leetcode.2c9f30a1.png",
-    "static/media/logo@tcs.png": "/mypage/static/media/logo@tcs.1996754d.png"
+    "static/media/logo@tcs.png": "/mypage/static/media/logo@tcs.1996754d.png",
+    "static/media/taskManagementApp.png": "/mypage/static/media/taskManagementApp.d9833a2d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a6f75408.js",
     "static/js/2.db6feabe.chunk.js",
-    "static/css/main.fd22f943.chunk.css",
-    "static/js/main.033ce127.chunk.js"
+    "static/css/main.b8cb7db3.chunk.css",
+    "static/js/main.658a73df.chunk.js"
   ]
 }
